@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/din/UnixDevs/panti",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Nutchanon Ninyawee",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "me@nutchanon.org",
+  "friendly_name": "Panti",
+  "github_user": "wasdee",
+  "license": "MIT",
+  "package_name": "panti",
+  "project_name": "panti",
+  "version": "0.0.1"
+}
